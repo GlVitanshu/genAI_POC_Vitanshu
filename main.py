@@ -1,9 +1,9 @@
-from fabonacci import FibonacciClass
+from fabonacci import Fibonacci
 import prime_number
 
 def Main():
-    f = FibonacciClass()
-    f.Fibonacci(10)
+    f = Fibonacci()
+    f.calculate_fibonacci(10)
     prime_number.calculate_prime()
 
 
