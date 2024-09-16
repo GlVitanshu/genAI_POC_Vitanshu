@@ -1,3 +1,4 @@
+import prime_number
 class FibonacciClass:
     def Fibonacci(self, n):
     	if n<0:
