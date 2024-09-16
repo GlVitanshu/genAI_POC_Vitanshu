@@ -1,5 +1,5 @@
-# Python program to print all 
-# prime number in an interval
+from fabonacci import FibonacciClass
+import prime_number
 
 def calculate_prime():
     start = 11
