@@ -1,6 +1,6 @@
 import prime_number
-class FibonacciClass:
-    def Fibonacci(self, n):
+class Fibonacci:
+    def calculate_fibonacci(self, n):
     	if n<0:
     		print("Incorrect input") 
     	# First Fibonacci number is 0 
