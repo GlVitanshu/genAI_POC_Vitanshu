@@ -1,4 +1,4 @@
-from fabonacci import FibonacciClass
+from fabonacci import Fibonacci
 
 def calculate_prime():
     start = 11
