@@ -1,11 +1,10 @@
 from fabonacci import FibonacciClass
-from find_area_of_circle import *
-from prime_number import *
+import prime_number
 
 def Main():
     f = FibonacciClass()
     f.Fibonacci(10)
-    calculate_prime()
+    prime_number.calculate_prime()
 
 
 if __name__ == "__main__":
