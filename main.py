@@ -1,4 +1,4 @@
-from fabonacci import Fibonacci
+from fibonacci import Fibonacci
 import prime_number
 
 def Main():
